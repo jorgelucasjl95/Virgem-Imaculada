@@ -327,7 +327,7 @@ img{
 @media screen and (min-width: 62.5em){
     .top-content{
         background-color: #521a66;
-        background-image: url(../imagens/fa9f1583-0fdd-4e07-b434-206588364d82.jpg);
+        background-image: url(imagens/fa9f1583-0fdd-4e07-b434-206588364d82.jpg);
         background-position: center bottom;
         height: 20em;
         padding-top: 17em;
@@ -338,7 +338,7 @@ img{
 }
 @media screen and (min-width: 74em){
     .top-content{
-        background-image: url(../imagens/46d7b403-b638-4816-80f8-36a7bbfba748.jpg);
+        background-image: url(imagens/46d7b403-b638-4816-80f8-36a7bbfba748.jpg);
         padding: 18em 10em 10em;
         background-position: center top;
     }
